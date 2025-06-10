@@ -8,3 +8,5 @@ Recicle un par de elementos de proyectos anteriores, como algunos de los modales
 Lo hice responsibo para que la interfaz no se rompiera según el tamaño de la ventana, pero no cubri que fuera para dispositivos móviles, dada la naturaleza del trabajo.
 Aunque es posible implementar más herramientas y darle una mejor presentación, me decidí por un punto intermédio; no queria arriesgarme demasiado (sobre todo porque son cosas que aún no sé manejar del todo y luego podría equivocarme) pero tampoco queria entregar algo muy sencillo.
 Me parece que es todo.
+Para correrlo:
+Solo es necesario isntalar las dependencias, despues desde la consola, puede abrir una para front con npm start y para back con node server.js.
