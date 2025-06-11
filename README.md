@@ -10,5 +10,5 @@ Aunque es posible implementar más herramientas y darle una mejor presentación,
 Me parece que es todo.
 Para correrlo:
 Solo es necesario instalar las dependencias, despues desde la consola, puede abrir una para front con npm start y para back con node server.js.
-La base de datos esta en pgAdmin4 (la versión de PostgeSQL es la 16).
+La base de datos esta en pgAdmin4 (la versión de PostgeSQL es la 17).
 *Credenciales para el Login; Usuario: Jaramillo   Contraseña: contrasena1
